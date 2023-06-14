@@ -1,0 +1,12 @@
+.my-account{
+    background-image: url(../../images/Acc/heading_bg_br.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0px;
+}
+.td-style td{
+    padding: 20px 10px;
+}
+.td-style input{
+    padding: 20px 10px;
+}

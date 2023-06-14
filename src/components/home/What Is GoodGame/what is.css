@@ -1,0 +1,91 @@
+.my-100 {
+    margin: 100px 0px;
+}
+
+.what-is {
+    font-size: 4rem;
+}
+
+h1.what-is::before {
+    content: "/";
+    display: inline;
+    position: relative;
+    color: #ffcf00;
+    font-style: normal;
+    margin-right: 0.5ch;
+}
+
+h1.what-is::after {
+    content: "/";
+    display: inline;
+    position: relative;
+    color: #ffcf00;
+    font-style: normal;
+    margin-left: 0.5ch;
+}
+
+.left-gg {
+    width: 100%;
+}
+
+.right-gg h3 {
+    font-size: 40px;
+}
+
+.right-gg {
+    background-image: url(../../../images/home/whatIs/feature-cf-right.jpg);
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-items: center;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    width: 100%;
+    text-align: left;
+}
+
+.hover_btn:hover {
+    color: whitesmoke !important;
+    background-color: #ffcf00 !important;
+    border-color: #ffcf00 !important;
+}
+
+.style-d {
+    display: flex;
+
+}
+
+.img1-what-is {
+    background-image: url(../../../images//home//whatIs//feature-comp.jpg);
+    background-size: cover;
+    width: 50%;
+    color: whitesmoke;
+
+}
+
+.img2-what-is {
+    background-image: url(../../../images//home//whatIs//feature-weap.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    color: whitesmoke;
+}
+
+@media (max-width:992px) {
+
+    .container-what-is {
+        display: block !important;
+        width: 100%;
+    }
+
+    .left-gg {
+        width: 100% !important;
+    }
+
+    .right-gg {
+        background-size: cover;
+        text-align: center;
+        width: 100% !important;
+    }
+}

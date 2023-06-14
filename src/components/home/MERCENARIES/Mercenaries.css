@@ -1,0 +1,128 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+    outline: 0;
+    padding: 0;
+}
+
+h1.Mercenaries::after {
+    content: "/";
+    display: inline;
+    position: relative;
+    color: #ffcf00;
+    font-style: normal;
+    margin-left: 0.5ch;
+}
+
+h1.Mercenaries::before {
+    content: "/";
+    display: inline;
+    position: relative;
+    color: #ffcf00;
+    font-style: normal;
+    margin-right: 0.5ch;
+}
+
+.d-style {
+    display: flex;
+    gap: 0.0625rem;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory !important;
+    white-space: nowrap;
+}
+
+.d-imgs1 {
+    flex: 1 1 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-width: none;
+    scroll-snap-align: start;
+    cursor: pointer;
+    overflow: hidden;
+    text-align: center;
+    transition: flex-basis 150ms linear;
+}
+
+
+.d-imgs1 img {
+    height: 80vmin;
+    width: auto;
+    max-height: 56.25rem;
+    max-width: 37.5rem;
+
+}
+
+.d-imgs2 {
+    position: relative;
+}
+
+.d-imgs2 span {
+    color: whitesmoke;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    font-size: 1.875rem;
+    text-transform: uppercase;
+    display: flex;
+    text-align: center;
+    align-items: flex-end;
+    justify-content: center;
+    padding: 0.5em 0.5em 1em;
+    opacity: 0;
+}
+
+
+.d-imgs2 span::after {
+    content: "/";
+    display: inline;
+    position: relative;
+    color: #ffcf00;
+    font-style: normal;
+    font-weight: bold;
+    margin-left: 0.5ch;
+}
+
+.d-imgs2 span::before {
+    content: "/";
+    display: inline;
+    position: relative;
+    color: #ffcf00;
+    font-weight: bold;
+    font-style: normal;
+    margin-right: 0.5ch;
+}
+
+.d-imgs1:hover {
+    flex: 0 0 20% !important;
+}
+
+.d-imgs1:hover span {
+    opacity: 1;
+}
+
+
+.d-imgs span {
+    display: none;
+}
+
+.d-imgs:hover span {
+    display: block;
+}
+
+@media (max-width:992px) {
+
+    .d-style,
+    .Mercenaries {
+        display: none;
+    }
+
+    .what-is {
+        font-size: 2rem;
+    }
+
+}

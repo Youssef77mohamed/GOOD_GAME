@@ -1,0 +1,36 @@
+.bg-pistol {
+    background-image: url(../../images/pistol/cfforum-background-large-hex181a1d.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0px;
+}
+
+.bg-pistol-container {
+    background-color: rgba(0, 0, 0, 0.367);
+    border-radius: 5px;
+    padding: 15px 10px;
+}
+
+.bg-pistol-container img {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.w-img-user img {
+    width: 4%;
+    margin-right: 15px;
+}
+
+.btn-pistol {
+    text-decoration: none;
+    margin-right: 10px;
+    color: rgb(188, 188, 188);
+    border: 1px solid rgb(188, 188, 188);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.btn-pistol:hover {
+    border-color: #f2ae09;
+    color: #f2ae09;
+}

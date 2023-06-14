@@ -1,0 +1,46 @@
+.Home{
+    background-image: url(../../images/home/cfi-bg-header.jpg);
+    background-position: top center;
+    background-size: 100% auto;
+    background-color: #ededed;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+.pt-100{
+    padding-top: 150px;
+}
+.mt-150{
+    margin-top: 150px;
+}
+.logos{
+    margin-right: 5px;
+    width: 9%;
+}
+.text-logo{
+    font-size: 65px;
+}
+.hover-btn-download:hover{
+    color: whitesmoke !important;
+}
+.hover-img-after-slider:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+} 
+@media (max-width:992px){
+    .logos{
+        width: 20%;
+    }
+    .text-logo{
+        font-size: 40px;
+    }
+    .text-mercenary{
+        font-size: 0.9rem !important;
+    }
+    .slider{
+        width: 100%;
+    }
+    .img-after-slider {
+        margin-top: 10px;
+        width: 50%;
+    }
+}

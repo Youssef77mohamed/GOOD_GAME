@@ -1,0 +1,103 @@
+.btn-acc {
+    color: whitesmoke !important;
+    border: #f2b707 1px solid;
+    border-radius: 3px;
+}
+
+.btn-acc:hover {
+    border: rgb(255, 255, 255) 1px solid;
+    color: #f2b707 !important;
+}
+
+.bg-nav {
+    background-color: #ffffff;
+    padding: 0;
+}
+
+.img-nav {
+    width: 40px;
+    pointer-events: none;
+    animation: App-logo-spin infinite 20s linear;
+}
+
+.drop-btn {
+    z-index: 10000;
+}
+
+.link-nav-hover {
+    font-style: italic;
+    font-size: 18px;
+    font-family: "Barlow Condensed", "Arial Narrow", sans-serif;
+    padding: 10px 0px;
+    position: relative;
+
+}
+
+.link-nav-hover:hover:after {
+    width: 85%;
+
+}
+
+.link-nav-hover::after {
+    content: "";
+    position: absolute;
+    background-color: #ffc107;
+    margin-left: 5px;
+    height: 3px;
+    width: 0;
+    left: 0;
+    bottom: 8%;
+    transition: 0.3s;
+}
+
+.link-nav-hover:hover {
+    background-color: black;
+    color: whitesmoke !important;
+}
+
+.cart {
+    right: 30px;
+    top: 0;
+}
+
+.fs-30 {
+    font-size: 28px;
+}
+
+.cart-length {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 1px solid #f2b707;
+    background-color: #f2b707;
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 20px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.3rem;
+}
+
+@media (max-width:992px) {
+    .link-nav-hover {
+        padding-left: 10px !important;
+
+    }
+
+    .link-nav-hover:hover:after {
+        width: 17%;
+        right: 0;
+
+    }
+
+
+}
+
+@media (max-width:618px) {
+    .cart {
+        margin-top: 10px;
+        margin-right: 100px;
+
+    }
+
+}

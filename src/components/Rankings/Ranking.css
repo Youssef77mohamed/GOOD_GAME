@@ -1,0 +1,29 @@
+.bg-Ranking {
+    background-image: url(https://z8games.akamaized.net/cfna/templates/assets/images/csp-bg-header2.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #ebebeb;
+    padding: 40px 0px;
+}
+
+.rank-tr:hover td {
+    background-color: black;
+    color: #ffcf00 !important;
+}
+
+.table-over {
+    overflow-x: auto;
+    margin-bottom: 10px;
+}
+
+.table-w {
+    white-space: nowrap;
+}
+
+@media (max-width:554px) {
+    .d-res {
+        display: block !important;
+    }
+
+}

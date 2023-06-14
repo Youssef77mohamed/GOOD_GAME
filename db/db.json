@@ -1,0 +1,1489 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0604.png",
+            "price": 2000,
+            "title": "Laser Dagger"
+        },
+        {
+            "id": 2,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1819.png",
+            "price": 2000,
+            "title": "Ruyi Jingu Bang"
+        },
+        {
+            "id": 3,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I0642.png",
+            "price": 5000,
+            "title": "Cyber Style Crate"
+        },
+        {
+            "id": 4,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I1619.png",
+            "price": 5000,
+            "title": "Proton Crate"
+        },
+        {
+            "id": 5,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I1272.png",
+            "price": 5000,
+            "title": "Vulcan Set A Crate"
+        },
+        {
+            "id": 6,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I1273.png",
+            "price": 5000,
+            "title": "Vulcan Set B Crate"
+        },
+        {
+            "id": 7,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I0872.png",
+            "price": 5000,
+            "title": "Blue Sapphire Crate"
+        },
+        {
+            "id": 8,
+            "img": "https://z8games.akamaized.net/cfna/web/main/ShopItem/KDreset.png",
+            "price": 40000,
+            "title": "Reset Kills/Deaths"
+        },
+        {
+            "id": 9,
+            "img": "https://z8games.akamaized.net/cfna//web/inventory/functionals/540_400/I7428.png",
+            "price": 40000,
+            "title": "Bolt Doll Blue"
+        },
+        {
+            "id": 10,
+            "img": "https://z8games.akamaized.net/cfna//web/inventory/functionals/540_400/I9043.png",
+            "price": 40000,
+            "title": "Bolt Doll Blue"
+        },
+        {
+            "id": 11,
+            "img": "https://z8games.akamaized.net/cfna//web/inventory/functionals/540_400/I8501.png",
+            "price": 40000,
+            "title": "Ashen Taurus Doll Blue"
+        },
+        {
+            "id": 12,
+            "img": "https://z8games.akamaized.net/cfna//web/inventory/functionals/540_400/I8501.png",
+            "price": 40000,
+            "title": "Ashen Taurus Doll Blue"
+        },
+        {
+            "id": 13,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/weapons/300_169/C0934.png",
+            "price": 600,
+            "title": "M4A1-S-Pure Silver"
+        },
+        {
+            "id": 14,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/weapons/300_169/C0770.png",
+            "price": 600,
+            "title": "AK47-Scope-Red Dragon"
+        },
+        {
+            "id": 15,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/weapons/300_169/C1177.png",
+            "price": 600,
+            "title": "Desert Eagle Tiger"
+        },
+        {
+            "id": 16,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/weapons/300_169/C0498.png",
+            "price": 600,
+            "title": "Dual Colt - Red Dragon"
+        },
+        {
+            "id": 17,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/weapons/300_169/C1181.png",
+            "price": 1800,
+            "title": "Kukri-Ultimate Gold"
+        },
+        {
+            "id": 18,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I8846.png",
+            "price": 1000,
+            "title": "AK-47-Buster-Ice Crate"
+        },
+        {
+            "id": 19,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I8846.png",
+            "price": 10000,
+            "title": "AK-47-Buster-Ice Crate"
+        },
+        {
+            "id": 20,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I2524.png",
+            "price": 10000,
+            "title": "M37 Stakeout-Confetti"
+        },
+        {
+            "id": 21,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I2524.png",
+            "price": 10000,
+            "title": "M37 Stakeout-Confetti"
+        },
+        {
+            "id": 22,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I8847.png",
+            "price": 1000,
+            "title": "Tiger's Paws Crate"
+        },
+        {
+            "id": 23,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I8847.png",
+            "price": 10000,
+            "title": "Tiger's Paws Crate"
+        },
+        {
+            "id": 23,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I1018.png",
+            "price": 1000,
+            "title": "AWM-Invictus Crate"
+        },
+        {
+            "id": 24,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I1018.png",
+            "price": 10000,
+            "title": "AWM-Invictus Crate"
+        },
+        {
+            "id": 24,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I0977.png",
+            "price": 1000,
+            "title": "True North Crate"
+        },
+        {
+            "id": 25,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I0977.png",
+            "price": 10000,
+            "title": "True North Crate"
+        },
+        {
+            "id": 26,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I1115.png",
+            "price": 1000,
+            "title": "Prime Crate"
+        },
+        {
+            "id": 27,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I1115.png",
+            "price": 10000,
+            "title": "Prime Crate"
+        },
+        {
+            "id": 28,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I8848.png",
+            "price": 1000,
+            "title": "Dao-Royal Crate"
+        },
+        {
+            "id": 29,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I8848.png",
+            "price": 10000,
+            "title": "Dao-Royal Crate"
+        },
+        {
+            "id": 30,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I1532.png",
+            "price": 2000,
+            "title": "Burnt Metal Crate"
+        },
+        {
+            "id": 31,
+            "img": "https://z8games.akamaized.net/cfna/web/inventory/crates/540_400/I1532.png",
+            "price": 20000,
+            "title": "Burnt Metal Crate"
+        }
+    ],
+    "Rankings": [
+        {
+            "id": 1,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_53s.jpg",
+            "PlayerName": "Mr.Qiu",
+            "KDR": 2.48,
+            "WIN_RATE": "75.44%",
+            "CLAN": "Stand2Gether"
+        },
+        {
+            "id": 2,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "Mr.Qiu",
+            "KDR": 2.8,
+            "WIN_RATE": "61.5%",
+            "CLAN": "RANKEDDEMON"
+        },
+        {
+            "id": 3,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "everglxXx",
+            "KDR": 2.26,
+            "WIN_RATE": "80.06%",
+            "CLAN": "weX"
+        },
+        {
+            "id": 4,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_104s.jpg",
+            "PlayerName": "Linkin9",
+            "KDR": 2.01,
+            "WIN_RATE": "69.08%",
+            "CLAN": "Mafia™"
+        },
+        {
+            "id": 5,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "ROF_Dnl",
+            "KDR": 2.04,
+            "WIN_RATE": "60.46%",
+            "CLAN": "RiseOfFury"
+        },
+        {
+            "id": 6,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "YarKent",
+            "KDR": 1.51,
+            "WIN_RATE": "53.31%",
+            "CLAN": "Uyghurs"
+        },
+        {
+            "id": 7,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_89s.jpg",
+            "PlayerName": "Revolt",
+            "KDR": 2.46,
+            "WIN_RATE": "69.21%",
+            "CLAN": "xtrfy"
+        },
+        {
+            "id": 8,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_66s.jpg",
+            "PlayerName": "noleyd",
+            "KDR": 2.46,
+            "WIN_RATE": "69.21%",
+            "CLAN": "xtrfy"
+        },
+        {
+            "id": 9,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "fR0MkaCh.",
+            "KDR": 1.12,
+            "WIN_RATE": "59.25%",
+            "CLAN": "NoRegister"
+        },
+        {
+            "id": 10,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_104s.jpg",
+            "PlayerName": "LuciferD",
+            "KDR": 1.5,
+            "WIN_RATE": "64.47%",
+            "CLAN": "Mafia™"
+        },
+        {
+            "id": 11,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_104s.jpg",
+            "PlayerName": "666666666",
+            "KDR": 1.79,
+            "WIN_RATE": "77.51%",
+            "CLAN": "WR47"
+        },
+        {
+            "id": 12,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_76s.jpg",
+            "PlayerName": ".rekzet",
+            "KDR": 2.89,
+            "WIN_RATE": "71.16%",
+            "CLAN": "evjkey"
+        },
+        {
+            "id": 13,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "D5_Warzonei",
+            "KDR": 2.63,
+            "WIN_RATE": "68.16%",
+            "CLAN": "Dream5layers"
+        },
+        {
+            "id": 14,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "KrypterR",
+            "KDR": 2.22,
+            "WIN_RATE": "76.86%",
+            "CLAN": "WR47"
+        },
+        {
+            "id": 15,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_68s.jpg",
+            "PlayerName": "Sypher",
+            "KDR": 1.04,
+            "WIN_RATE": "86.05%",
+            "CLAN": "BlueStar"
+        },
+        {
+            "id": 16,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "Stashing",
+            "KDR": 1.42,
+            "WIN_RATE": "68.57%",
+            "CLAN": "Incredible"
+        },
+        {
+            "id": 17,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_99s.jpg",
+            "PlayerName": "SK-Sleepy",
+            "KDR": 1.58,
+            "WIN_RATE": "64.22%",
+            "CLAN": "StayKrazy"
+        },
+        {
+            "id": 18,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_90s.jpg",
+            "PlayerName": "LZR_Jin",
+            "KDR": 1.96,
+            "WIN_RATE": "76.66%",
+            "CLAN": "Lazarus"
+        },
+        {
+            "id": 19,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_65s.jpg",
+            "PlayerName": "315ALEE.",
+            "KDR": 1.65,
+            "WIN_RATE": "59.22%",
+            "CLAN": "Wyy"
+        },
+        {
+            "id": 20,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "Carry5Dogs",
+            "KDR": 1.47,
+            "WIN_RATE": "59.7%",
+            "CLAN": "2Mensquad"
+        },
+        {
+            "id": 21,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "ayusha",
+            "KDR": 1.59,
+            "WIN_RATE": "62.32%",
+            "CLAN": "okai"
+        },
+        {
+            "id": 22,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "Huluuuu",
+            "KDR": 1.17,
+            "WIN_RATE": "53.02%",
+            "CLAN": "HyperrCarry"
+        },
+        {
+            "id": 23,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_60s.jpg",
+            "PlayerName": "Set",
+            "KDR": 2.05,
+            "WIN_RATE": "65.61%",
+            "CLAN": "xtrfy"
+        },
+        {
+            "id": 24,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_60s.jpg",
+            "PlayerName": "Walaly",
+            "KDR": 1.96,
+            "WIN_RATE": "65.94%",
+            "CLAN": "Hakobu"
+        },
+        {
+            "id": 25,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_95s.jpg",
+            "PlayerName": "Zlatan",
+            "KDR": 1.62,
+            "WIN_RATE": "67.18%",
+            "CLAN": "Wyy"
+        },
+        {
+            "id": 26,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "PARTIZANN",
+            "KDR": 1.34,
+            "WIN_RATE": "65.58%",
+            "CLAN": ""
+        },
+        {
+            "id": 27,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_75s.jpg",
+            "PlayerName": "Ownade",
+            "KDR": 2.17,
+            "WIN_RATE": "55.05%",
+            "CLAN": "SpiritsV"
+        },
+        {
+            "id": 28,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "Samido",
+            "KDR": 1.75,
+            "WIN_RATE": "64.93%",
+            "CLAN": "TeamOctopus"
+        },
+        {
+            "id": 29,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_95s.jpg",
+            "PlayerName": "mabuGOAT",
+            "KDR": 2.32,
+            "WIN_RATE": "71.65%",
+            "CLAN": "Dream5layers"
+        },
+        {
+            "id": 30,
+            "Tier": "https://z8games.akamaized.net/cfna/templates/assets/imgs/tiers/tier-9-100.png",
+            "Rank": "https://z8games.akamaized.net/cfna/templates/assets/imgs/ranks/rank_100s.jpg",
+            "PlayerName": "FLank",
+            "KDR": 1.4,
+            "WIN_RATE": "59.25%",
+            "CLAN": "okai"
+        }
+    ],
+    "Modes": [
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Ship_thumb.jpg",
+            "City": "Ship"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Mexico_thumb.jpg",
+            "City": "Mexico"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Train_thumb.jpg",
+            "City": "Train"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Monaco_thumb.jpg",
+            "City": "Monaco"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Factory_thumb.jpg",
+            "City": "Factory"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_PowerPlant_thumb.jpg",
+            "City": "Power Plant"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Egypt_thumb.jpg",
+            "City": "Egypt"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Arena_thumb.jpg",
+            "City": "Arena"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_ForbiddenPalace_thumb.jpg",
+            "City": "Forbidden Palace"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Fortress_thumb.jpg",
+            "City": "Fortress"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Prison_thumb.jpg",
+            "City": "Prison"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/EM_Christmas_thumb.jpg",
+            "City": "Christmas"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Cairo_thumb.jpg",
+            "City": "Cairo"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Sewers_thumb.jpg",
+            "City": "Sewers"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_ChinaTown_thumb.jpg",
+            "City": "Chinatown"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_OrbitalStation_thumb.jpg",
+            "City": "Orbital Station"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_MuseumIslamTemple_thumb.jpg",
+            "City": "Museum"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_SubmarineBay_thumb.jpg",
+            "City": "Sub Assault"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_SnowValley_thumb.jpg",
+            "City": "Snow Valley"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Halloween_thumb.jpg",
+            "City": "Halloween"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Theater_thumb.jpg",
+            "City": "Theater"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_ShoppingMall_thumb.jpg",
+            "City": "Shopping Mall"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_City_thumb.jpg",
+            "City": "Docks"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Bridge_thumb.jpg",
+            "City": "Bridge"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Seizure_thumb.jpg",
+            "City": "Seizure"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_RedEye_thumb.jpg",
+            "City": "Red Eye"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_AirForceOne_thumb.jpg",
+            "City": "RAir Force One"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_AlleyMarket_thumb.jpg",
+            "City": "Alley Market"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Egypt2_thumb.jpg",
+            "City": "New Egypt"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Aquarium_thumb.jpg",
+            "City": "Aquarium"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_IcyCavern_thumb.jpg",
+            "City": "Icy Cavern"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Gallery_thumb.jpg",
+            "City": "Gallery"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_SanFrancisco_thumb.jpg",
+            "City": "San Francisco"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Mexico2_thumb.jpg",
+            "City": "New Mexico"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Monaco2_thumb.jpg",
+            "City": "New Monaco"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Sampa_thumb.jpg",
+            "City": "Sampa"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Favela_thumb.jpg",
+            "City": "Favela"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_WilliamsCastle_thumb.jpg",
+            "City": "William's Castle"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_RedSquare_thumb.jpg",
+            "City": "Red Square"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_DeathRing_thumb.jpg",
+            "City": "Boxing Ring"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Ship10th_thumb.jpg",
+            "City": "BShip 10th"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Harbor_thumb.jpg",
+            "City": "Harbor"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Bank_thumb.jpg",
+            "City": "Bank"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Floodgate_thumb.jpg",
+            "City": "Floodgate"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Riverside_thumb.jpg",
+            "City": "Old Canal"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_RailwayStation_thumb.jpg",
+            "City": "Railway Station"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_Tulou_thumb.jpg",
+            "City": "Tulou"
+        },
+        {
+            "img_mode": "https://z8games.akamaized.net/cfna/web/maps/TDM_CityHall_thumb.jpg",
+            "City": "City Hall"
+        }
+    ],
+    "AssaultRifles": [
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7019.png",
+            "title": "[T] M4A1-S-Angel"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9978.png",
+            "title": "M4A1-S-Azurite Beast"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7600.png",
+            "title": "M4A1-S-Iron Wolf"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9689.png",
+            "title": "HK417-Spitfire Beast"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8505.png",
+            "title": "M4A1-S-Demon"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9290.png",
+            "title": "M4A1-S-Angel"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9809.png",
+            "title": "M4A1-S-Molten Beast"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9898.png",
+            "title": "9A-91-Wild Eagle"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9840.png",
+            "title": "AK-47-K-Rhodium Beast"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9860.png",
+            "title": "AK-47-Red Scorpion"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2250.png",
+            "title": "M4A1-S-Titanium Beast"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2231.png",
+            "title": "QBZ-03-Jewelry"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1878.png",
+            "title": "AK-47-Knife-Steampunk"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1827.png",
+            "title": "QBZ-95-Armored Beast"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1640.png",
+            "title": "M4A1-S-Guan Yu"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1584.png",
+            "title": "AN94-Transformer"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1532.png",
+            "title": "AK12-Iron Beast"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1430.png",
+            "title": "M4A1-S-Radiant Beast"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1316.png",
+            "title": "AK-47-Knife-Obsidian Beast"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1182.png",
+            "title": "M4A1-S-Predator"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0909.png",
+            "title": "AK-47-Iron Beast"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0399.png",
+            "title": "AK-47-Beast"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0398.png",
+            "title": "AK-47-Fury"
+        },
+        {
+            "Assault_Rifles": "Assault Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0478.png",
+            "title": "M4A1-S-Iron Beast"
+        }
+    ],
+    "Sniper_Rifles": [
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8846.png",
+            "title": "Barrett-Wavelite"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8503.png",
+            "title": "Barrett-Demon"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7596.png",
+            "title": "Barrett-Spitfire Beast"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8506.png",
+            "title": "Barrett-Angel"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8028.png",
+            "title": "Barrett-Cobalt Beast"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9081.png",
+            "title": "Kar 98K-Electric Beast"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9590.png",
+            "title": "M200 CheyTac-Dominator"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2251.png",
+            "title": "Barrett-Titanium Beast"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2154.png",
+            "title": "Barrett M82A1-Jewelry"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1966.png",
+            "title": "AWM-Ironhawk"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0431.png",
+            "title": "AWM-Infernal Dragon"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1143.png",
+            "title": "Barrett-Iron Shark"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0732.png",
+            "title": "Barrett-Obsidian Beast"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7589.png",
+            "title": "AWM-Verdure Ironhawk"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C6821.png",
+            "title": "TRG-21-Pink Venom"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C6981.png",
+            "title": "AWM-S-Chupacabra"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7694.png",
+            "title": "Barrett-Cosmic Demon"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7690.png",
+            "title": "M200 CheyTac-Cosmos"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7047.png",
+            "title": "AWM-SweetTooth"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7483.png",
+            "title": "M200 CheyTac-Genesis"
+        },
+        {
+            "Sniper_Rifles": "Sniper_Rifles",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7284.png",
+            "title": "M200CheyTac-Blazing Dragon"
+        }
+    ],
+    "Sub_Machine_Guns": [
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0524.png",
+            "title": "Thompson-Infernal Dragon"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7248.png",
+            "title": "Scorpion EVO3A1-Unicorn"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7502.png",
+            "title": "Steyr TMP-Arachnid"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7608.png",
+            "title": "Steyr TMP-Arcade"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8240.png",
+            "title": "Scorpion EVO3A1-Feral"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9474.png",
+            "title": "Kinetics CPW-BL L.A. SWAT"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8435.png",
+            "title": "Steyr TMP-CFS Triumph"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8683.png",
+            "title": "Steyr TMP-Neon Circuit"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9107.png",
+            "title": "Thompson-Scorched Beast"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9531.png",
+            "title": "Kriss Super V-Unicorn"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9515.png",
+            "title": "Steyr TMP-Witchcraft"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2249.png",
+            "title": "Thompson-Prime Beast"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2011.png",
+            "title": "Steyr TMP-Ultra"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1976.png",
+            "title": "Kinetics CPW"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1958.png",
+            "title": "Dual Scorpion VZ61-Blue Pottery"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1942.png",
+            "title": "MP5K-A4-Slate"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1656.png",
+            "title": "BIZON PP19-Excavator"
+        },
+        {
+            "Sub_Machine_Guns": "Sub_Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1551.png",
+            "title": "Steyr TMP-Eternal Dragon"
+        }
+    ],
+    "Machine_Guns": [
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1533.png",
+            "title": "Gatling Gun-Infernal Dragon"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7147.png",
+            "title": "Gatling Gun-Cumulus Dragon"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8500.png",
+            "title": "Gatling Gun-Gale Beast"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8422.png",
+            "title": "KAC Chainsaw-Kanzan"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8714.png",
+            "title": "KAC Chainsaw-Fatal Attraction"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8994.png",
+            "title": "Gatling Gun-Noble Beast"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9321.png",
+            "title": "KAC ChainSAW-Mermaid"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9589.png",
+            "title": "Gatling Gun-Peony"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9856.png",
+            "title": "Gatling Gun-Scorched Beast"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2144.png",
+            "title": "KAC Chainsaw-Elite"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2018.png",
+            "title": "Gatling Gun-Prime Beast"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1941.png",
+            "title": "Vektor-SS-77-Slate"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1905.png",
+            "title": "M249 MINIMI SPW-Empire"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1646.png",
+            "title": "KAC Chainsaw-Burnt Metal"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1571.png",
+            "title": "KAC-Glorious Phoenix"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1458.png",
+            "title": "RPK- Noble Gold"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1312.png",
+            "title": "Gatling Gun-Razer"
+        },
+        {
+            "Machine_Guns": "Machine_Guns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1324.png",
+            "title": "M249-SPW-BurstFire-Urban"
+        }
+    ],
+    "Shotguns": [
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2194.png",
+            "title": "AA-12-Iron Beast"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7048.png",
+            "title": "AA12-SweetTooth"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7290.png",
+            "title": "SPAS12-Slug-Krampus"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7454.png",
+            "title": "Super Shorty-Royal Flush"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9658.png",
+            "title": "SSPAS-12-Slug Gold Core"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9222.png",
+            "title": "AA-12-Rising Dragon"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9524.png",
+            "title": "KSG15-Splash Attack"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9510.png",
+            "title": "SPAS-12-Pink Camo-Slug"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1756.png",
+            "title": "JackHammer-Proton"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1556.png",
+            "title": "Armsel Striker - NeonPink"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1396.png",
+            "title": "FN TPS-Hearts"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1260.png",
+            "title": "687 EDP-Sagittarius"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1242.png",
+            "title": "687 EDP-Octagon Camo"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1144.png",
+            "title": "AA-12 Buster"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1045.png",
+            "title": "SPAS-12-Rebel-Slug"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1049.png",
+            "title": "M37 Stakeout-Rebel-Slug"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0853.png",
+            "title": "SPAS-12-Ares-Slug"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0848.png",
+            "title": "M37 Stakeout-Ares-Slug"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0697.png",
+            "title": "500 Chainsaw"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0425.png",
+            "title": "Armsel Striker"
+        },
+        {
+            "Shotguns": "Shotguns",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0871.png",
+            "title": "VEPR-12"
+        }
+    ],
+    "Pistols": [
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8844.png",
+            "title": "Dual Colt-Wavelite"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9807.png",
+            "title": "Cop.357-Molten Beast"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9839.png",
+            "title": "USP-Rhodium Beast"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2252.png",
+            "title": "Cop.357-Titanium Beast"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2039.png",
+            "title": "Raging Bull-Cyborg"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1828.png",
+            "title": "Desert Eagle-Armored Beast"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1641.png",
+            "title": "Glock 18C-Guan Yu"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1485.png",
+            "title": "D Eagle-El Dorado"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0771.png",
+            "title": "D Eagle-Obsidian Beast"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C6820.png",
+            "title": "Colt 1911-Pink Venom"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C6980.png",
+            "title": "Anaconda-FD-Chupacabra"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7561.png",
+            "title": "Mauser M1896-Porcelain"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7686.png",
+            "title": "COP.357-Cosmos"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7046.png",
+            "title": "USP-SweetTooth"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7485.png",
+            "title": "COP.357-Genesis"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7288.png",
+            "title": "D.E-S-Krampus"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7283.png",
+            "title": "M1896-Blazing Dragon"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7451.png",
+            "title": "Anaconda-Royal Flush"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7501.png",
+            "title": "Raging Bull-Arachnid"
+        },
+        {
+            "Pistols": "Pistols",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8600.png",
+            "title": "D.E-Poseidon Demon"
+        }
+    ],
+    "Melee": [
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8842.png",
+            "title": "Kukri-Wavelite"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9805.png",
+            "title": "Bladed Knuckles-Molten Beast"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9747.png",
+            "title": "B.C. Axe-Molten Beast"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9838.png",
+            "title": "Dragon Blade-Rhodium Beast"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2253.png",
+            "title": "Kukri-Titanium Beast"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1829.png",
+            "title": "IAS-Armored Beast"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1348.png",
+            "title": "Knuckles-Infernal Dragon"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1257.png",
+            "title": "Shovel-Obsidian Beast"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1069.png",
+            "title": "BC Axe-Beast"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C0625.png",
+            "title": "Kukri-Beast"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8132.png",
+            "title": "Kukri-Beast-Noble Jade"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C6830.png",
+            "title": "Shovel-Cumulus Demon"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C6979.png",
+            "title": "J.Knife-Chupacabra"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7559.png",
+            "title": "Dao-Porcelain"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7692.png",
+            "title": "Knuckles-Cosmic Beast"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7684.png",
+            "title": "Knife-Cosmos"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7481.png",
+            "title": "D.Blade-Genesis"
+        },
+        {
+            "Melee": "Melee",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7282.png",
+            "title": "D.Karambit-Blazing Dragon"
+        }
+    ],
+    "Grenades": [
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8840.png",
+            "title": "Grenade-Wavelite"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8838.png",
+            "title": "Flashbang-Wavelite"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8836.png",
+            "title": "Smoke-Wavelite"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9803.png",
+            "title": "Grenade-Molten Beast"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9801.png",
+            "title": "Flashbang-Molten Beast"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9799.png",
+            "title": "Smoke-Molten Beast"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9837.png",
+            "title": "Grenade-Rhodium Beast"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9836.png",
+            "title": "Flashbang-Rhodium Beast"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C9835.png",
+            "title": "Smoke-Rhodium Beast"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2256.png",
+            "title": "Flashbang-Titanium Beast"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2255.png",
+            "title": "Smoke-Titanium Beast"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C2254.png",
+            "title": "Grenade-Titanium Beast"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1832.png",
+            "title": "Smoke-A.Beast"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1831.png",
+            "title": "Wide-G-A.Beast"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C1830.png",
+            "title": "Flash-A.Beast"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7682.png",
+            "title": "Smoke-Cosmos"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7862.png",
+            "title": "W.Grenade-Defiance"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7860.png",
+            "title": "Flashbang-Defiance"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C7858.png",
+            "title": "Smoke-Defiance"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8276.png",
+            "title": "G-Noble Titanium"
+        },
+        {
+            "Grenades": "Grenades",
+            "img_weapons": "https://z8games.akamaized.net/cfna/web/inventory/weapons/540_400/C8273.png",
+            "title": "FB-Noble Titanium"
+        }
+    ]
+}

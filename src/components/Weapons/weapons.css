@@ -1,0 +1,44 @@
+.bg-container-weapons{
+    background-color: whitesmoke;
+    padding: 50px 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.link{
+    color: #666666 ;
+    border: none;
+    border-radius: 0 !important;
+    border-radius: 50px !important;
+    margin-top: 5px;
+}
+
+.link:hover{
+    color: #ffcf00;
+    background-color: black;
+}
+.link.active{
+    background-color: #1f2023 !important;
+    background-image: linear-gradient(0deg, #44484c 0%, #202428 100%) !important;
+    color: white;
+}
+.img-text-weapon{
+    width: 32%;
+    margin: 10px 6px;
+    perspective: 1500px;
+    color: rgb(102, 102, 102);
+}
+.img-text-weapon img{
+    transform: rotateX(10deg) rotateY(-18deg) rotateZ(3deg);
+    transition: 0.3s;
+
+}
+.img-weapon{
+    background-image: url(https://z8games.akamaized.net/cfna/templates/assets/images/cfw-weaponbg-vip.png) ;
+    background-size: cover;
+    width: 100%;
+}
+.img-text-weapon img:hover{
+    transform: rotate(0) !important;
+}
+
+

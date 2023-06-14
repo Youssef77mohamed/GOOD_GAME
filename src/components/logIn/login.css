@@ -1,0 +1,56 @@
+.bg-login{
+    background-image: url(../../images/loginAndsignUp/bg_na_july2019.jpg);
+    background-position: top center;
+    min-height: 100%;
+}
+.input-logIn{
+    background-color: rgb(17, 21, 41);
+    color: whitesmoke;
+    border: 1px solid rgb(3, 182, 206);
+}
+.form{
+    width: 320px;
+    margin: 0 auto;
+}
+.icon-password,
+.icon-user{
+    top: 50%;
+    left: 0;
+    transform: translate(50%,-50%);
+    color: whitesmoke;
+}
+.form-log{
+    padding-top: 150px ;
+    padding-bottom: 250px;
+}
+.form-log input:focus{
+    background-color: rgba(245, 245, 245, 0.393);
+    color: black;
+}
+.icon-eye,
+.icon-eye-slash{
+    position: absolute;
+    top: 50%;
+    right: 8%;
+    transform: translate(50%,-50%);
+    color: whitesmoke;
+    cursor: pointer;
+}
+.btn-log{
+    background-color:rgb(164, 8, 8) ;
+    width: 320px;
+    padding: 10px 0px;
+    color: whitesmoke;
+    font-weight: 600;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 9px;
+}
+
+.new-acc{
+    color: rgb(255, 255, 255);
+    display: block;
+}
+
+

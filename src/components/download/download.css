@@ -1,0 +1,94 @@
+.bg-download {
+    background-image: url(../../images/download/cfd-bg-generic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: bottom;
+}
+
+.fs-100 {
+    font-size: 100px;
+}
+
+.mx-6 {
+    margin-right: 6rem;
+    margin-left: 6rem;
+}
+
+.download::after {
+    content: "/";
+    display: inline;
+    position: relative;
+    color: #ffcf00;
+    font-style: normal;
+    margin-left: 0.5ch;
+}
+
+.download::before {
+    content: "/";
+    display: inline;
+    position: relative;
+    color: #ffcf00;
+    font-style: normal;
+    margin-right: 0.5ch;
+}
+
+.download-btn {
+    color: black;
+    text-decoration: none;
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 24px;
+}
+
+.download-btn-img {
+    background-image: url(../../images/download/cfd-jumbo-button.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 50%;
+    margin-right: 6px;
+}
+
+.download-btn-text {
+    background-color: #ffcf00;
+    height: 220px;
+    margin: 40px 100px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.download-btn-text:hover .download-btn {
+    color: whitesmoke !important;
+}
+
+.border_card {
+    border: 1px solid rgb(136, 136, 136);
+    border-radius: 2px;
+    margin-right: 10px;
+}
+
+.w-50-calc {
+    flex-basis: calc(50.5% - 1rem);
+}
+
+.w-25-calc {
+    flex: 1 1 calc(25% - 1.25rem);
+}
+@media (max-width:643px) {
+    .download-btn-text{
+        margin: 0;
+    }
+    .download-btn {
+        font-size: 28px;
+    }
+    .m-res{
+        margin: 0;
+    }
+    .w-50-calc{
+        flex-basis: 100%;
+    }
+    .w-25-calc{
+        margin-top: 5px;
+        flex-basis: 100%;
+    }
+
+}
